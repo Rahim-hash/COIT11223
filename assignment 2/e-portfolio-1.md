@@ -67,3 +67,11 @@ The Watson-versus-ChatGPT comparison caught me off guard. I expected ChatGPT to 
 ---
 
 ## References (Harvard style)
+
+ABC News 2026, 'US President Trump orders six-month phase-out of Anthropic AI technology across government', ABC News, 28 February 2026, viewed 24 July 2026, https://www.abc.net.au/news/2026-02-28/us-president-orders-six-month-phaseout-of-anthropic-technology/106400088
+
+CQUniversity 2026, COIT11223 ICT Ethics and Governance in Society, Week 2: Artificial Intelligence, workshop slides, CQUniversity, Sydney.
+
+Department of Industry, Science and Resources 2025, Australia's AI ethics principles, Australian Government, viewed 24 July 2026, https://www.industry.gov.au/publications/australias-ai-ethics-principles
+
+Learn Bright 2024, What Is AI? | Learn all about artificial intelligence, video, YouTube, viewed 24 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU
