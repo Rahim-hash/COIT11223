@@ -42,14 +42,18 @@ https://www.industry.gov.au/publications/australias-ai-ethics-principles
 ![Screenshot of the government publication page](images/artefact3.png)
 
 ### Summary of the artefact
+This page by the Department of Industry, Science and Resources (2025) outlines Australia's AI Ethics Principles, first published in 2019 and updated in December 2025. There are eight principles in total: human, societal and environmental wellbeing, human-centred values, fairness, privacy protection and security, reliability and safety, transparency and explainability, contestability, and accountability. The principles are voluntary and are meant to guide businesses and governments to design, develop, and use AI responsibly, with the goal of making Australia a leader in safe and inclusive AI. The page also mentions that in October 2025, the department released new Guidance for AI Adoption, which simplifies these principles into six essential practices for safe AI governance.
 
 
 ### Justification on why I chose the artefact
+The principle that stood out to me most was transparency and explainability, the idea that people should be able to understand when AI is affecting them and why. What stood out even more was learning that these principles are only voluntary, not legally required, and that they are already being simplified into a smaller set of practices. This made me a bit worried, since it shows that companies are not actually obligated to follow them if they choose not to. This connects to the Anthropic article I used for Artefact 2, where a company pushing back on ethical grounds still was not enough to stop a government from threatening its business, which makes me think voluntary principles alone might not be strong enough to guarantee responsible AI use.
+
+I think it is a positive thing that Australia has a clear ethical framework like this in place, but at the same time I do not think it goes far enough if there is no real requirement to follow it. This has made me think more about how I would approach building AI systems in the future, since I would want to make sure transparency and accountability are built in from the start, rather than relying on voluntary guidelines that companies could choose to ignore.
 
 
 ## Artefact 4: Workshop Personal Reflection
 
-Workshop: Week / Day / Date / Tutor / Campus
+Workshop: Week  2 / Day / Date / Tutor / Campus
 
 ![Selfie from the workshop confirming attendance](images/artefact4-selfie.jpg)
 
