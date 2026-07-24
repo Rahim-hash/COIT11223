@@ -10,9 +10,11 @@ https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 ![Screenshot of the YouTube video thumbnail or a frame from it](images/artefact1.png)
 
 ### Summary of the artefact
+This video by Learn Bright explains artificial intelligence in a simple, easy-to-follow way. It describes AI through everyday examples most people already use, such as Siri, Google Assistant, and Alexa, which rely on voice recognition and machine learning to respond to requests. It also discusses chatbots, explaining that older chatbots were not considered true AI because they could not learn or adapt, but modern chatbots now use AI to become more responsive over time. The video introduces three levels of AI: Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI). It then outlines both the pros and cons of AI, including its ability to automate dangerous tasks like handling toxic chemicals, against risks such as high cost, potential weaponisation, and job losses. The video ends by encouraging viewers to weigh up whether the benefits of AI outweigh its risks.
 
 
 ### Justification on why I chose the artefact
+I chose this video because its explanation of AI was easy to follow. Before watching it, I did not know that AI had different levels, such as ANI, AGI, and ASI. The chatbot example stayed with me most because I have used online customer-service chats without really considering how much AI was involved. It made me realise that AI is already a normal part of everyday life, even when we barely notice it. I agree that AI can make life easier, but it still needs to be controlled properly.This connects to what we covered in the workshop about AI governance, where the Australian government's AI Ethics Principles focus on things like fairness, safety, and accountability, which shows that even helpful technology like AI still needs rules around how it is used.
 
 
 ## Artefact 2: Autonomous Weapons in Real Conflicts
