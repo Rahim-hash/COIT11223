@@ -25,9 +25,13 @@ https://www.abc.net.au/news/2026-02-28/us-president-orders-six-month-phaseout-of
 ![Screenshot of the article headline/image](images/artefact2.png)
 
 ### Summary of the artefact
+This 2026 ABC News article (ABC News 2026) reports that US President Trump directed every federal agency to stop using Anthropic's AI technology immediately, while giving the Department of Defense six months to phase it out. The Pentagon also labeled Anthropic a "supply chain risk," a designation generally reserved for companies from adversary nations. The conflict arose after Anthropic sought assurances that its AI would not be used in fully autonomous weapons or for mass domestic surveillance, conditions the Pentagon declined to accept. Anthropic said it would challenge the designation in court, describing it as unprecedented for an American company. The article also mentions that autonomous systems are already being used in real conflicts, such as in Ukraine and Gaza, and that concerns about "killer robots" have existed among human rights groups for years.
 
 
 ### Justification on why I chose the artefact
+What stood out to me most in this article was Anthropic refusing to let its AI be used for fully autonomous weapons, and the fact that autonomous systems are already being used in real conflicts like Ukraine and Gaza. This confirmed what I already suspected, that governments and AI companies often clash over how far AI should be allowed to go, rather than always being on the same page about ethics. It also connected directly to what we covered in the workshop about killer robots and the Human Rights Watch recommendations, which argue that fully autonomous weapons should be banned or tightly regulated through international law.
+
+I found this both a positive and a negative thing to learn about. It was reassuring that a company like Anthropic was willing to push back on ethical grounds instead of just following government demands, but it was also worrying to see how easily a government can threaten a company's business over that stance. It made me think more carefully about the kind of company I would want to work for in the future, since this shows that ICT professionals do not just build technology, they can also end up in the middle of decisions about how far that technology should be allowed to be used.
 
 
 ## Artefact 3: Australia's National AI Plan
