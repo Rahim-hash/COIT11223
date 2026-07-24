@@ -53,16 +53,17 @@ I think it is a positive thing that Australia has a clear ethical framework like
 
 ## Artefact 4: Workshop Personal Reflection
 
-Workshop: Week  2 / Day / Date / Tutor / Campus
+Workshop: Week 2, Thursday, 23 July 2026, Umapathy Venugopal, Sydney campus
 
-![Selfie from the workshop confirming attendance](images/artefact4-selfie.jpg)
+![Selfie from the workshop confirming attendance](images/artefact4.png)
 
 ### Summary of the artefact: My Personal Reflection
 
+In this workshop we went through the history of AI, starting from the Dartmouth Conference back in 1956, all the way up to machine learning and generative AI today. We examined several AI-generated images and tried to identify their flaws. It was surprisingly funny: some errors were so subtle that you could easily miss them without looking closely. We also compared IBM Watson with ChatGPT and considered which system would win on Jeopardy today. Watson was designed specifically for that task, so it would probably still come out ahead, despite ChatGPT having far more data overall. In a group activity, we then discussed how to teach a computer to distinguish a chihuahua from a muffin. Simple to recognize, perhaps, but surprisingly difficult to describe in precise rules.Then we had a class discussion about AI-detection tools, like Turnitin flagging a student's essay and a case where someone got zero marks after being flagged for 100% AI use. That got a bit of a debate going about how accurate those tools actually are. We also talked about robots made for emotional support, like PARA and Pepper, and whether robots like that could actually be harmful to real relationships instead of helpful.
 
 ### Justification on why I chose the artefact
 
-
+The Watson-versus-ChatGPT comparison caught me off guard. I expected ChatGPT to win on Jeopardy today because it has access to far more data, but the result made more sense after I considered the difference: Watson was built specifically for that task, which makes it better suited to the game despite having less data overall. The point about AI-detection tools such as Turnitin stayed with me. I'm not convinced they're fully reliable: they can't be 100% certain, and the tools themselves acknowledge that they may be wrong. It concerns me that students could be penalised on the basis of a system that is uncertain to begin with. I also worry that robots designed to encourage emotional attachment, such as Pepper or PARA, might do more harm than good. People could begin depending on them in place of genuine human relationships. This workshop changed my view of AI. I used to focus mainly on what it could do; now I pay just as much attention to how reliable it is and to the fact that these systems can still be wrong, even when they sound confident.
 ---
 
 ## References (Harvard style)
