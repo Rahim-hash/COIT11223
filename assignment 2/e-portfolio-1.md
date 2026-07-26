@@ -5,9 +5,9 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 ## Artefact 1: What is Artificial Intelligence (AI)?
 
 **What Is AI? | Learn all about artificial intelligence**
-https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
-![Screenshot of the YouTube video thumbnail or a frame from it](images/artefact1.png)
+
+[![Screenshot of the YouTube video thumbnail or a frame from it](images/artefact1.png)](https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s)
 
 ### Summary of the artefact
 This video by Learn Bright explains artificial intelligence in a simple, easy-to-follow way. It describes AI through everyday examples most people already use, such as Siri, Google Assistant, and Alexa, which rely on voice recognition and machine learning to respond to requests. It also discusses chatbots, explaining that older chatbots were not considered true AI because they could not learn or adapt, but modern chatbots now use AI to become more responsive over time. The video introduces three levels of AI: Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI). It then outlines both the pros and cons of AI, including its ability to automate dangerous tasks like handling toxic chemicals, against risks such as high cost, potential weaponisation, and job losses. The video ends by encouraging viewers to weigh up whether the benefits of AI outweigh its risks.
@@ -20,9 +20,9 @@ I picked this video because its explanation of AI was easy to follow. Before wat
 ## Artefact 2: Autonomous Weapons in Real Conflicts
 
 **US president orders six-month phaseout of Anthropic technology**
-https://www.abc.net.au/news/2026-02-28/us-president-orders-six-month-phaseout-of-anthropic-technology/106400088
 
-![Screenshot of the article headline/image](images/artefact2.png)
+
+[![Screenshot of the article headline/image](images/artefact2.png)](https://www.abc.net.au/news/2026-02-28/us-president-orders-six-month-phaseout-of-anthropic-technology/106400088)
 
 ### Summary of the artefact
 This 2026 ABC News article (ABC News 2026) reports that US President Trump directed every federal agency to stop using Anthropic's AI technology immediately, while giving the Department of Defense six months to phase it out. The Pentagon also labeled Anthropic a "supply chain risk," a designation generally reserved for companies from adversary nations. The conflict arose after Anthropic sought assurances that its AI would not be used in fully autonomous weapons or for mass domestic surveillance, conditions the Pentagon declined to accept. Anthropic said it would challenge the designation in court, describing it as unprecedented for an American company. The article also mentions that autonomous systems are already being used in real conflicts, such as in Ukraine and Gaza, and that concerns about "killer robots" have existed among human rights groups for years.
@@ -39,7 +39,7 @@ I found this both a positive and a negative thing to learn about. It was reassur
 **Australia's AI ethics principles**
 https://www.industry.gov.au/publications/australias-ai-ethics-principles
 
-![Screenshot of the government publication page](images/artefact3.png)
+[![Screenshot of the government publication page](images/artefact3.png)](https://www.industry.gov.au/publications/australias-ai-ethics-principles)
 
 ### Summary of the artefact
 This page by the Department of Industry, Science and Resources (2025) outlines Australia's AI Ethics Principles, first published in 2019 and updated in December 2025. There are eight principles in total: human, societal and environmental wellbeing, human-centred values, fairness, privacy protection and security, reliability and safety, transparency and explainability, contestability, and accountability. The principles are voluntary and are meant to guide businesses and governments to design, develop, and use AI responsibly, with the goal of making Australia a leader in safe and inclusive AI. The page also mentions that in October 2025, the department released new Guidance for AI Adoption, which simplifies these principles into six essential practices for safe AI governance.
