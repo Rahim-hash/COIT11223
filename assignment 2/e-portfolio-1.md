@@ -62,7 +62,9 @@ In this workshop we went through the history of AI, starting from the Dartmouth 
 
 ### Justification on why I chose the artefact
 The Watson-versus-ChatGPT comparison caught me off guard. I expected ChatGPT to win on Jeopardy today because it has access to far more data, but the result made more sense after I considered the difference: Watson was built specifically for that task, which makes it better suited to the game despite having less data overall. The point about AI-detection tools such as Turnitin stayed with me. I'm not convinced they're fully reliable: they can't be 100% certain, and the tools themselves acknowledge that they may be wrong. It concerns me that students could be penalised on the basis of a system that is uncertain to begin with. I also worry that robots designed to encourage emotional attachment, such as Pepper or PARA, might do more harm than good. People could begin depending on them in place of genuine human relationships. This workshop changed my view of AI. I used to focus mainly on what it could do; now I pay just as much attention to how reliable it is and to the fact that these systems can still be wrong, even when they sound confident.
+
 ---
+
 
 ## References (Harvard style)
 
