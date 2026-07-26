@@ -37,7 +37,6 @@ I found this both a positive and a negative thing to learn about. It was reassur
 ## Artefact 3: Australia's National AI Plan
 
 **Australia's AI ethics principles**
-https://www.industry.gov.au/publications/australias-ai-ethics-principles
 
 [![Screenshot of the government publication page](images/artefact3.png)](https://www.industry.gov.au/publications/australias-ai-ethics-principles)
 
