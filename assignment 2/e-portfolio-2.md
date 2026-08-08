@@ -13,7 +13,7 @@ This scenario was covered in the Week 4 workshop (CQUniversity 2026) to illustra
 
 
 ### Justification for Choosing the Artefact
-
+I chose this artefact because it demonstrates how Kantian ethics can be applied to a real and relevant issue involving the use of generative AI in education. The scenario clarified Kant's ideas about duty, honesty, and respect for others. By applying both formulations of the categorical imperative, I could see why submitting AI-generated work as one's own is unethical, regardless of any benefit to the student. This artefact was particularly meaningful because the use of AI tools is becoming increasingly common in higher education, making the ethical questions it raises highly relevant to both students and future ICT professionals.
 
 ---
 
