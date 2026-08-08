@@ -9,6 +9,7 @@ A collection of artefacts that demonstrate what I have learnt about ethics and e
 [![Screenshot of the workshop slide showing the GenAI report scenario](images/week4/artefact1.png)](https://github.com/Rahim-hash/COIT11223/blob/main/assignment%202/COIT11223_T2_2026_Workshop_Week_4.pptx)
 
 ### Summary of the Artefact
+This scenario was covered in the Week 4 workshop (CQUniversity 2026) to illustrate Kantianism, an ethical theory developed by Immanuel Kant. Kant believed that rational people have dignity and deserve respect, and that an action is only good if the principle behind it is good. The scenario involves a student who is working part-time and studying full-time, and who uses a generative AI tool to write their final report for an IT unit, then submits it as their own work. Using Kant's first formulation, universalising the rule, the workshop concluded that if "claiming credit for work performed by GenAI" became a universal rule, reports would no longer indicate students' real knowledge, so the rule is self-defeating. Using the second formulation, treating people as ends and not means, the student is seen as deceiving the lecturer and using them as a means to pass the course. Both formulations conclude that what the student did was wrong.
 
 
 ### Justification for Choosing the Artefact
