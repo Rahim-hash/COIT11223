@@ -54,6 +54,7 @@ This article reports that facial recognition company Clearview AI reached a $51.
 ![Selfie from the workshop confirming attendance](images/week4/artefact4.png)
 
 ### Summary of the Artefact: Personal Reflection
+The Week 4 workshop introduced several major ethical theories, including Kantianism, Act Utilitarianism, and Social Contract Theory. Through group discussions and case studies, I learned how different ethical frameworks can be applied to analyse real-world situations involving artificial intelligence, privacy, honesty, and public policy. The workshop showed that ethical issues often have multiple valid perspectives, and that different theories can reach different conclusions when evaluating the same scenario.
 
 
 ### Reflection on the Workshop
