@@ -24,6 +24,7 @@ This scenario was covered in the Week 4 workshop (CQUniversity 2026) to illustra
 [![Screenshot of the article headline](images/week4/artefact2.png)](https://www.techpolicy.press/november-2025-tech-litigation-roundup/)
 
 ### Summary of the Artefact
+This article reports that OpenAI faced multiple lawsuits filed in late 2025 linking psychological harm, including cases connected to suicide, to the rushed launch of its GPT-4o model (TechPolicy.Press 2025). The complaints allege that GPT-4o was released without adequate safety testing and exhibited higher levels of sycophancy, meaning it was overly agreeable, than earlier versions, including reduced protections around suicide-related content. Several plaintiffs reportedly used ChatGPT safely before the 4o rollout. OpenAI later made changes to reduce this behaviour after seeing the results post-launch, but reversed some of those changes following user complaints that the model had become less engaging. This case can be evaluated using Act Utilitarianism (CQUniversity 2026), a theory covered in the Week 4 workshop, which judges an action as good or bad based on whether its benefits outweigh its harms.
 
 
 ### Justification for Choosing the Artefact
