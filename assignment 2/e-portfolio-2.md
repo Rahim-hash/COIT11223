@@ -28,7 +28,7 @@ This article reports that OpenAI faced multiple lawsuits filed in late 2025 link
 
 
 ### Justification for Choosing the Artefact
-
+I chose this artefact because it shows how Act Utilitarianism can be used to evaluate decisions involving emerging technologies and their social consequences. The case highlights the tension between innovation and commercial success on one hand, and potential harm to users on the other. Analysing the OpenAI lawsuit through a utilitarian lens helped me understand how ethical decisions are judged by their outcomes and overall impact on society. This example was particularly relevant given how widely the technology involved is used, and it underscored the importance of weighing both benefits and risks when deploying AI systems.
 
 ---
 
