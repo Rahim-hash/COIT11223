@@ -62,3 +62,8 @@ This article reports that facial recognition company Clearview AI reached a $51.
 ---
 
 ## References
+CQUniversity 2026, COIT11223 ICT Ethics and Governance in Society, Week 4: Ethics and Ethical Theories, workshop slides, CQUniversity, Sydney.
+
+TechPolicy.Press 2025, 'November 2025 Tech Litigation Roundup', TechPolicy.Press, viewed [add access date], https://www.techpolicy.press/november-2025-tech-litigation-roundup/
+
+Atlan 2026, 'Data ethics examples: real cases & key principles', viewed [add access date], https://atlan.com/data-ethics-examples/
