@@ -39,6 +39,7 @@ This article reports that OpenAI faced multiple lawsuits filed in late 2025 link
 [![Screenshot of the article headline](images/week4/artefact3.png)](https://atlan.com/data-ethics-examples/)
 
 ### Summary of the Artefact
+This article reports that facial recognition company Clearview AI reached a $51.75 million settlement in 2025 after scraping billions of photos from social media without users' consent to build its facial recognition database (Atlan 2026). The practice violated biometric privacy laws, including Illinois' Biometric Information Privacy Act (BIPA). Clearview AI sells access to this database to law enforcement and other clients, allowing them to search for a person's identity using just a photo, without the people in those photos ever agreeing to be included. This case can be evaluated using Social Contract Theory (CQUniversity 2026), a theory covered in the Week 4 workshop, which holds that morality consists of rules people agree to follow for mutual benefit, and considers whether individuals have a right to expect their personal data, such as their face, to remain private unless they give permission.
 
 
 ### Justification for Choosing the Artefact
