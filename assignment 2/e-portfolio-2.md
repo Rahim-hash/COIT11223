@@ -68,8 +68,8 @@ Overall, the workshop improved my ability to critically evaluate ethical issues 
 
 ## References
 
-CQUniversity 2026, COIT11223 ICT Ethics and Governance in Society, Week 4: Ethics and Ethical Theories, workshop slides, CQUniversity, Sydney.
+Batt, M & Dinçer, M 2025, 'November 2025 Tech Litigation Roundup', TechPolicy.Press, 11 December 2025, viewed 7 August 2026, https://www.techpolicy.press/november-2025-tech-litigation-roundup/
 
-TechPolicy.Press 2025, 'November 2025 Tech Litigation Roundup', TechPolicy.Press, viewed 7 August 2026, https://www.techpolicy.press/november-2025-tech-litigation-roundup/
+CQUniversity 2026, COIT11223 ICT Ethics and Governance in Society, Week 4: Ethics and Ethical Theories, workshop slides, CQUniversity, Sydney.
 
 The Register 2026, 'Tech support scam caused massive data breach at Australian airline Qantas', The Register, 16 July 2026, viewed 7 August 2026, https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267
