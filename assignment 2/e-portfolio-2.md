@@ -58,13 +58,18 @@ The Week 4 workshop (CQUniversity 2026) introduced several major ethical theorie
 
 
 ### Reflection on the Workshop
+The Week 4 workshop helped me develop a deeper understanding of how ethical theories can be applied to real-world situations in technology and society. Before attending the workshop, I generally thought of ethics as simply determining whether an action was right or wrong. However, I learned that different ethical theories evaluate situations from different perspectives. Kantianism focuses on duties and moral principles, Act Utilitarianism considers the consequences of actions and their impact on overall wellbeing, and Social Contract Theory examines the obligations and expectations that exist within society.
 
+I found the case studies particularly useful because they connected theoretical concepts to current issues involving artificial intelligence, privacy, and data security. The GenAI report scenario demonstrated the importance of honesty and academic integrity, while the OpenAI and Qantas examples showed how ethical theories can be used to analyse the responsibilities of organisations developing and managing technology. These discussions helped me recognise that ethical decision-making is often complex and requires consideration of multiple viewpoints.
+
+Overall, the workshop improved my ability to critically evaluate ethical issues and strengthened my understanding of the responsibilities that ICT professionals have when designing, implementing, and managing technology. I believe the knowledge gained from this workshop will be valuable in both my future studies and my professional career.
 
 ---
 
 ## References
+
 CQUniversity 2026, COIT11223 ICT Ethics and Governance in Society, Week 4: Ethics and Ethical Theories, workshop slides, CQUniversity, Sydney.
 
 TechPolicy.Press 2025, 'November 2025 Tech Litigation Roundup', TechPolicy.Press, viewed [add access date], https://www.techpolicy.press/november-2025-tech-litigation-roundup/
 
-Atlan 2026, 'Data ethics examples: real cases & key principles', viewed [add access date], https://atlan.com/data-ethics-examples/
+The Register 2026, 'Tech support scam caused massive data breach at Australian airline Qantas', The Register, 16 July 2026, viewed [add access date], https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267
