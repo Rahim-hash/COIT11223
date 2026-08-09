@@ -4,9 +4,9 @@ A collection of artefacts that demonstrate what I have learnt about ethics and e
 
 ## Artefact 1: Kantianism and the GenAI Report Scenario
 
-**Workshop Scenario:** A student submits a ![alt text](image.png) report as their own work.
+**Workshop Scenario:** A student submits a GenAI-generated report as their own work.
 
-[![Screenshot of the workshop slide showing the GenAI report scenario](images/week4/artefact1.png)]
+![Screenshot of the workshop slide showing the GenAI report scenario](images/week4/artefact1.png)
 
 ### Summary of the Artefact
 This scenario was covered in the Week 4 workshop (CQUniversity 2026) to illustrate Kantianism, an ethical theory developed by Immanuel Kant. Kant believed that rational people have dignity and deserve respect, and that an action is only good if the principle behind it is good. The scenario involves a student who is working part-time and studying full-time, and who uses a generative AI tool to write their final report for an IT unit, then submits it as their own work. Using Kant's first formulation, universalising the rule, the workshop concluded that if "claiming credit for work performed by GenAI" became a universal rule, reports would no longer indicate students' real knowledge, so the rule is self-defeating. Using the second formulation, treating people as ends and not means, the student is seen as deceiving the lecturer and using them as a means to pass the course. Both formulations conclude that what the student did was wrong.
@@ -70,6 +70,6 @@ Overall, the workshop improved my ability to critically evaluate ethical issues 
 
 CQUniversity 2026, COIT11223 ICT Ethics and Governance in Society, Week 4: Ethics and Ethical Theories, workshop slides, CQUniversity, Sydney.
 
-TechPolicy.Press 2025, 'November 2025 Tech Litigation Roundup', TechPolicy.Press, viewed [add access date], https://www.techpolicy.press/november-2025-tech-litigation-roundup/
+TechPolicy.Press 2025, 'November 2025 Tech Litigation Roundup', TechPolicy.Press, viewed 7 August 2026, https://www.techpolicy.press/november-2025-tech-litigation-roundup/
 
-The Register 2026, 'Tech support scam caused massive data breach at Australian airline Qantas', The Register, 16 July 2026, viewed [add access date], https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267
+The Register 2026, 'Tech support scam caused massive data breach at Australian airline Qantas', The Register, 16 July 2026, viewed 7 August 2026, https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267
