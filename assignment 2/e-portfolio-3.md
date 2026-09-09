@@ -6,7 +6,7 @@ This e-portfolio presents four artefacts that demonstrate my learning about inte
 
 ### Artefact
 
-**Copyright and AI ? Transparency discussion paper**
+**Copyright and AI - Transparency discussion paper**
 
 Australian Government, Attorney-General's Department  
 Published: 4 February 2025
