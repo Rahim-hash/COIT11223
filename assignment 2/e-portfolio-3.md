@@ -90,7 +90,7 @@ The Week 7 workshop explored the role of intellectual property in protecting cre
 
 ### Justification for Choosing the Artefact
 
-To be developed.
+I chose this workshop artefact because it represents what I personally learned about the purpose and limitations of intellectual property protection. Before this workshop, I mainly viewed intellectual property as a way of preventing people from copying another person's work. The discussion helped me recognise that the issue is more complex because strong protection can encourage creators and innovation, while excessive restrictions can also affect access, competition and legitimate use. This was meaningful to me as an ICT student because future technology decisions may require balancing legal protection, technical controls and the rights of users.
 
 ---
 
