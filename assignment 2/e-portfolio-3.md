@@ -1,6 +1,6 @@
 # E-Portfolio 3: Intellectual Property
 
-A collection of artefacts that demonstrate what I have learnt about intellectual property this week.
+A collection of artefacts that demonstrate what I have learnt about intellectual property during Week 7. The workshop explored how copyright, patents, trademarks, trade secrets and digital protections can protect creators while also raising important questions about access, ownership, fair use and the responsibilities of ICT professionals.
 
 ## Artefact 1
 
