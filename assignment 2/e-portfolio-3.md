@@ -86,7 +86,7 @@ This photograph provides evidence of my attendance and participation in the Week
 
 ### Summary of the Artefact
 
-To be developed.
+The Week 7 workshop explored the role of intellectual property in protecting creative and technological work while also considering the effects of those protections on society. One key idea I learned was that intellectual property involves a balance. Giving creators exclusive rights can encourage innovation and provide recognition or commercial value, but overly restrictive protection may also reduce access to useful knowledge and digital content. The workshop connected this issue with copyright, fair use, Digital Rights Management and the responsibilities involved in managing intellectual property in modern ICT environments (CQUniversity 2026).
 
 ### Justification for Choosing the Artefact
 
