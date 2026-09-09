@@ -62,11 +62,11 @@ CQUniversity, 2026
 
 ### Summary of the Artefact
 
-To be developed.
+This Week 7 workshop slide explains Digital Rights Management (DRM) as actions taken by owners of intellectual property in digital form to protect their rights and manage legal access to digital content. The slide identifies two important DRM approaches. Digital content can be encrypted so that a key is required before the material can be accessed, or content can be marked so that devices recognise it as copy-protected. The artefact demonstrates how technological controls can be used alongside intellectual property law to regulate access to and use of digital material (CQUniversity 2026).
 
 ### Justification for Choosing the Artefact
 
-To be developed.
+I chose this artefact because it helped me understand that intellectual property protection is not limited to copyright law alone. Technical measures can also control how digital material is accessed and used. I found the encryption example particularly useful because it connected the legal topic of intellectual property with practical ICT security mechanisms. As a future ICT professional, this made me think more carefully about balancing the rights of content owners with legitimate access by users.
 
 ---
 
