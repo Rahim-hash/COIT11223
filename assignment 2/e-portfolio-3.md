@@ -72,15 +72,17 @@ I chose this artefact because it helped me understand that intellectual property
 
 ## Artefact 4: Week 7 Workshop Reflection
 
-### Workshop Details
-
-Week 7 Workshop
-
-Topic: Intellectual Property
-
 ### Workshop Evidence
 
-To be added.
+**COIT11223 Week 7 Workshop - Intellectual Property**
+
+[![Artefact 4 - Week 7 Workshop Evidence](images/week7/artifact4.png)](images/week7/artifact4.png)
+
+This photograph provides evidence of my attendance and participation in the Week 7 workshop on Intellectual Property.
+
+### Key Workshop Idea
+
+**Balancing intellectual property protection with access, innovation and user rights**
 
 ### Summary of the Artefact
 
