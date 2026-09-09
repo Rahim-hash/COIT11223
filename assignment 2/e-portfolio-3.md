@@ -48,11 +48,17 @@ I chose this artefact because it closely connects with the Week 7 discussion abo
 
 ---
 
-## Artefact 3
+## Artefact 3: Digital Rights Management and Protection of Digital Content
 
 ### Artefact
 
-To be added.
+**Week 7 Workshop Slide: Digital Rights Management**
+
+COIT11223 ICT Ethics and Governance in Society  
+Week 7: Intellectual Property  
+CQUniversity, 2026
+
+[![Artefact 3 - Digital Rights Management](images/week7/artifact3.png)](images/week7/artifact3.png)
 
 ### Summary of the Artefact
 
