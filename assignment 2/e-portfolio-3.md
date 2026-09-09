@@ -17,11 +17,11 @@ Published: 4 February 2025
 
 ### Summary of the Artefact
 
-The Australian Government's *Copyright and AI ? Transparency discussion paper* examines copyright issues arising from the growing use of artificial intelligence. It considers the need for greater transparency about how copyright material may be used as input for AI systems and how AI-generated outputs are produced. The paper formed part of consultation with the Copyright and Artificial Intelligence Reference Group (CAIRG) on possible policy responses.
+The Australian Government's *Copyright and AI ? Transparency discussion paper* examines emerging copyright concerns created by the development and use of artificial intelligence. It focuses particularly on transparency surrounding the use of copyright-protected material as inputs for AI systems and considers whether government action may be needed in this area. The paper was circulated to the Copyright and Artificial Intelligence Reference Group (CAIRG) for stakeholder input and forms part of Australia's broader consideration of how existing copyright principles should operate as AI technologies continue to develop (Attorney-General's Department 2025).
 
 ### Justification for Choosing the Artefact
 
-To be developed.
+I chose this artefact because it connects directly with the Week 7 discussion about how intellectual property law must balance the rights of creators with technological innovation. It helped me understand that AI creates new challenges for copyright because protected material can potentially be used during the development of AI systems. As a future ICT professional, I think transparency about the use of copyright material is important because developers should consider both legal obligations and the interests of original creators.
 
 ---
 
