@@ -40,11 +40,11 @@ Published: 11 February 2025
 
 ### Summary of the Artefact
 
-To be developed.
+The Reuters article reports on a 2025 United States copyright decision involving Thomson Reuters and ROSS Intelligence, an artificial intelligence legal research company. The dispute concerned material connected to Thomson Reuters' Westlaw legal research platform that was used while ROSS was developing a competing AI-based legal research service. The court found copyright infringement and rejected ROSS's argument that its use of the material qualified as fair use. The decision is significant because it demonstrates how existing copyright principles are being tested as companies use protected material when developing artificial intelligence systems (Reuters 2025).
 
 ### Justification for Choosing the Artefact
 
-To be developed.
+I chose this artefact because it closely connects with the Week 7 discussion about fair use and the limits placed on copying copyright-protected material. The case helped me understand that technological innovation does not automatically justify using another organisation's intellectual property. I found this particularly relevant to my future work in ICT because developers need to understand where training and development data comes from, whether permission is required, and how their technical decisions may affect the rights of content owners.
 
 ---
 
