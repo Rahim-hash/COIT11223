@@ -25,11 +25,18 @@ I chose this artefact because it connects directly with the Week 7 discussion ab
 
 ---
 
-## Artefact 2
+## Artefact 2: AI Copyright and Fair Use - Thomson Reuters v ROSS Intelligence
 
 ### Artefact
 
-To be added.
+**Thomson Reuters wins AI copyright 'fair use' ruling against one-time competitor**
+
+Reuters  
+Published: 11 February 2025
+
+[![Artefact 2 - Thomson Reuters v ROSS Intelligence](images/week7/artifact2.png)](https://www.reuters.com/legal/thomson-reuters-wins-ai-copyright-fair-use-ruling-against-one-time-competitor-2025-02-11/)
+
+[View the Reuters article](https://www.reuters.com/legal/thomson-reuters-wins-ai-copyright-fair-use-ruling-against-one-time-competitor-2025-02-11/)
 
 ### Summary of the Artefact
 
