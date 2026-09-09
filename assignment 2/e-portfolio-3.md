@@ -96,8 +96,12 @@ I chose this workshop artefact because it represents what I personally learned a
 
 ## AI Use Statement
 
-To be completed.
+I used generative AI to support planning, idea generation and organisation. I verified relevant information against the Week 7 workshop materials and original sources, and reviewed and revised the final submission in my own words.
 
 ## References
 
-To be completed.
+Attorney-General's Department 2025, *Copyright and AI - Transparency discussion paper*, Australian Government, 4 February, viewed 9 September 2026, <https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper>.
+
+CQUniversity 2026, *COIT11223 ICT Ethics and Governance in Society, Week 7: Intellectual Property*, workshop slides, CQUniversity.
+
+Reuters 2025, 'Thomson Reuters wins AI copyright "fair use" ruling against one-time competitor', *Reuters*, 11 February, viewed 9 September 2026, <https://www.reuters.com/legal/thomson-reuters-wins-ai-copyright-fair-use-ruling-against-one-time-competitor-2025-02-11/>.
