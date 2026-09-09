@@ -11,6 +11,8 @@ A collection of artefacts that demonstrate what I have learnt about intellectual
 Australian Government, Attorney-General's Department  
 Published: 4 February 2025
 
+[![Artefact 1 - Copyright and AI](images/week7/artifact1.png)](https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper)
+
 [View the Copyright and AI ? Transparency discussion paper](https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper)
 
 ### Summary of the Artefact
