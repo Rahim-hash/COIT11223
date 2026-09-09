@@ -1,6 +1,6 @@
 # E-Portfolio 3: Intellectual Property
 
-A collection of artefacts that demonstrate what I have learnt about intellectual property during Week 7. The workshop explored how copyright, patents, trademarks, trade secrets and digital protections can protect creators while also raising important questions about access, ownership, fair use and the responsibilities of ICT professionals.
+This e-portfolio presents four artefacts that demonstrate my learning about intellectual property during Week 7.
 
 ## Artefact 1: Copyright and Artificial Intelligence
 
@@ -17,13 +17,11 @@ Published: 4 February 2025
 
 ### Summary of the Artefact
 
-The Australian Government's *Copyright and AI ? Transparency discussion paper* examines emerging copyright concerns created by the development and use of artificial intelligence. It focuses particularly on transparency surrounding the use of copyright-protected material as inputs for AI systems and considers whether government action may be needed in this area. The paper was circulated to the Copyright and Artificial Intelligence Reference Group (CAIRG) for stakeholder input and forms part of Australia's broader consideration of how existing copyright principles should operate as AI technologies continue to develop (Attorney-General's Department 2025).
+The Australian Government's *Copyright and AI - Transparency discussion paper* examines copyright concerns created by artificial intelligence. It focuses on transparency around the use of copyright-protected material as inputs for AI systems and considers whether government action may be needed. The paper was provided to the Copyright and Artificial Intelligence Reference Group for stakeholder input and shows how Australia is considering whether existing copyright principles remain suitable as AI technologies develop (Attorney-General's Department 2025).
 
 ### Justification for Choosing the Artefact
 
-I chose this artefact because it connects directly with the Week 7 discussion about how intellectual property law must balance the rights of creators with technological innovation. It helped me understand that AI creates new challenges for copyright because protected material can potentially be used during the development of AI systems. As a future ICT professional, I think transparency about the use of copyright material is important because developers should consider both legal obligations and the interests of original creators.
-
----
+I chose this artefact because it directly connects Week 7 copyright concepts with a current Australian policy issue. It helped me understand that AI development can affect the rights of original creators. As an ICT student, I found the transparency issue important because developers should consider both legal obligations and the source of material used by AI systems.
 
 ## Artefact 2: AI Copyright and Fair Use - Thomson Reuters v ROSS Intelligence
 
@@ -40,13 +38,11 @@ Published: 11 February 2025
 
 ### Summary of the Artefact
 
-The Reuters article reports on a 2025 United States copyright decision involving Thomson Reuters and ROSS Intelligence, an artificial intelligence legal research company. The dispute concerned material connected to Thomson Reuters' Westlaw legal research platform that was used while ROSS was developing a competing AI-based legal research service. The court found copyright infringement and rejected ROSS's argument that its use of the material qualified as fair use. The decision is significant because it demonstrates how existing copyright principles are being tested as companies use protected material when developing artificial intelligence systems (Reuters 2025).
+The Reuters article reports on a 2025 United States copyright decision involving Thomson Reuters and ROSS Intelligence. The dispute concerned material connected to the Westlaw legal research platform that ROSS used while developing a competing AI-based legal research service. The court found copyright infringement and rejected ROSS's fair-use defence. The case demonstrates how established copyright principles are being tested when protected material is used during the development of artificial intelligence systems (Reuters 2025).
 
 ### Justification for Choosing the Artefact
 
-I chose this artefact because it closely connects with the Week 7 discussion about fair use and the limits placed on copying copyright-protected material. The case helped me understand that technological innovation does not automatically justify using another organisation's intellectual property. I found this particularly relevant to my future work in ICT because developers need to understand where training and development data comes from, whether permission is required, and how their technical decisions may affect the rights of content owners.
-
----
+I chose this artefact because it connects directly with the Week 7 discussion of fair use and copying protected material. The case showed me that technological innovation does not automatically justify using another organisation's intellectual property. For ICT professionals, it highlights the importance of understanding where development data comes from and whether permission is required.
 
 ## Artefact 3: Digital Rights Management and Protection of Digital Content
 
@@ -62,13 +58,11 @@ CQUniversity, 2026
 
 ### Summary of the Artefact
 
-This Week 7 workshop slide explains Digital Rights Management (DRM) as actions taken by owners of intellectual property in digital form to protect their rights and manage legal access to digital content. The slide identifies two important DRM approaches. Digital content can be encrypted so that a key is required before the material can be accessed, or content can be marked so that devices recognise it as copy-protected. The artefact demonstrates how technological controls can be used alongside intellectual property law to regulate access to and use of digital material (CQUniversity 2026).
+This Week 7 workshop slide explains Digital Rights Management (DRM) as measures used by owners of digital intellectual property to protect their rights and manage legal access to content. It identifies encryption, where a key is required to access material, and marking content so devices recognise it as copy-protected. The slide demonstrates how technical controls can work alongside intellectual property law to regulate access to and use of digital material (CQUniversity 2026).
 
 ### Justification for Choosing the Artefact
 
-I chose this artefact because it helped me understand that intellectual property protection is not limited to copyright law alone. Technical measures can also control how digital material is accessed and used. I found the encryption example particularly useful because it connected the legal topic of intellectual property with practical ICT security mechanisms. As a future ICT professional, this made me think more carefully about balancing the rights of content owners with legitimate access by users.
-
----
+I chose this slide because it showed me that intellectual property protection is not limited to legal rules. Technical measures can also control access and use. The encryption example was especially useful because it connected intellectual property with ICT security and made me consider how systems should balance content-owner rights with legitimate user access.
 
 ## Artefact 4: Week 7 Workshop Reflection
 
@@ -86,13 +80,11 @@ This photograph provides evidence of my attendance and participation in the Week
 
 ### Summary of the Artefact
 
-The Week 7 workshop explored the role of intellectual property in protecting creative and technological work while also considering the effects of those protections on society. One key idea I learned was that intellectual property involves a balance. Giving creators exclusive rights can encourage innovation and provide recognition or commercial value, but overly restrictive protection may also reduce access to useful knowledge and digital content. The workshop connected this issue with copyright, fair use, Digital Rights Management and the responsibilities involved in managing intellectual property in modern ICT environments (CQUniversity 2026).
+The Week 7 workshop explored how intellectual property can protect creative and technological work while also affecting access and innovation. A key idea was that intellectual property involves a balance: exclusive rights can reward creators and encourage new work, but overly restrictive protection may also limit access, competition and legitimate use. The workshop connected this balance with copyright, fair use and Digital Rights Management in contemporary ICT environments (CQUniversity 2026).
 
 ### Justification for Choosing the Artefact
 
-I chose this workshop artefact because it represents what I personally learned about the purpose and limitations of intellectual property protection. Before this workshop, I mainly viewed intellectual property as a way of preventing people from copying another person's work. The discussion helped me recognise that the issue is more complex because strong protection can encourage creators and innovation, while excessive restrictions can also affect access, competition and legitimate use. This was meaningful to me as an ICT student because future technology decisions may require balancing legal protection, technical controls and the rights of users.
-
----
+I chose my workshop evidence because it represents what I personally learned during Week 7. Before the workshop, I mainly viewed intellectual property as preventing copying. I now understand that protection also involves balancing creators' rights, innovation and user interests. This is meaningful to me because ICT professionals may need to make technical decisions that affect all three.
 
 ## AI Use Statement
 
