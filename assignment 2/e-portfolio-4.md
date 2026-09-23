@@ -25,11 +25,19 @@ To be developed.
 
 ---
 
-## Artefact 2
+## Artefact 2: Australia's Social Media Age Restrictions
 
 ### Artefact
 
-To be added.
+**Social media age restrictions**
+
+eSafety Commissioner  
+Australian Government  
+Restrictions effective: 10 December 2025
+
+[![Artefact 2 - Social media age restrictions](images/week9/artifact2.png)](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions)
+
+[View the official eSafety Commissioner source](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions)
 
 ### Summary of the Artefact
 
