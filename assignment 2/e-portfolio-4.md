@@ -65,11 +65,11 @@ CQUniversity, 2026
 
 ### Summary of the Artefact
 
-To be developed.
+The Week 9 workshop slide asks how ethical principles such as Kantianism and Act Utilitarianism can be applied to modern censorship issues. It highlights that both perspectives generally oppose censorship, while also asking students to consider situations where online restrictions may be used to protect society. The key question is where legitimate protection ends and an unacceptable restriction on freedom begins (CQUniversity 2026).
 
 ### Justification for Choosing the Artefact
 
-To be developed.
+I chose this artefact because the question made me think beyond whether censorship is simply good or bad. I learned that decisions about online content require balancing safety with freedom of expression. As an ICT student, I found the question of who should make these decisions important because governments and technology companies can both influence what users are able to access online.
 
 ---
 
