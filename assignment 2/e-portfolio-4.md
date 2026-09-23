@@ -1,6 +1,6 @@
 # E-Portfolio 4: Censorship and Government
 
-This e-portfolio presents four artefacts that demonstrate what I learned about censorship and government during Week 9. The workshop examined how governments, technology companies and other organisations can regulate access to online information, as well as the ethical tension between protecting society from harmful content and preserving freedom of expression. It also explored internet blocking, private-platform regulation, classification systems and the responsibilities of ICT professionals.
+This e-portfolio presents four artefacts that demonstrate my learning about censorship and government during Week 9.
 
 ## Artefact 1: eSafety Commissioner vs X - Online Safety and Freedom of Expression
 
@@ -8,7 +8,7 @@ This e-portfolio presents four artefacts that demonstrate what I learned about c
 
 **eSafety drops case against Elon Musk's X over church stabbing videos**
 
-ABC News  
+ABC News
 Published: 5 June 2024
 
 [![Artefact 1 - eSafety Commissioner vs X](images/week9/artifact1.png)](https://www.abc.net.au/news/2024-06-05/esafety-elon-musk-x-church-stabbing-videos-court-case/103937152)
@@ -21,7 +21,7 @@ The ABC News article reports that Australia's eSafety Commissioner abandoned a F
 
 ### Justification for Choosing the Artefact
 
-To be developed.
+I chose this artefact because it connects the Week 9 censorship topic with a current Australian example involving government regulation and a global technology platform. It made me consider how difficult it is to protect users from harmful material without unnecessarily restricting online expression. As an ICT student, I found the balance between online safety, legal authority and freedom of expression particularly relevant because technology professionals may help implement these decisions.
 
 ---
 
@@ -31,8 +31,8 @@ To be developed.
 
 **Social media age restrictions**
 
-eSafety Commissioner  
-Australian Government  
+eSafety Commissioner
+Australian Government
 Restrictions effective: 10 December 2025
 
 [![Artefact 2 - Social media age restrictions](images/week9/artifact2.png)](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions)
@@ -41,11 +41,11 @@ Restrictions effective: 10 December 2025
 
 ### Summary of the Artefact
 
-The eSafety Commissioner explains Australia's social media age restrictions, which require age-restricted platforms to take reasonable steps to prevent Australians under 16 from creating or keeping accounts. The restrictions took effect on 10 December 2025 and apply to major platforms including Facebook, Instagram, TikTok, X and YouTube. The policy demonstrates how governments can regulate access to online services in an attempt to reduce risks to younger users (eSafety Commissioner 2026).
+The eSafety Commissioner explains Australia's social media age restrictions, which require age-restricted platforms to take reasonable steps to prevent Australians under 16 from creating or keeping accounts. The restrictions took effect on 10 December 2025 and apply to major platforms including Facebook, Instagram, TikTok, X and YouTube. The policy shows how government regulation can restrict access to online services in an effort to protect younger users (eSafety Commissioner 2026).
 
 ### Justification for Choosing the Artefact
 
-I chose this artefact because it shows how government regulation can be used to protect younger users while also limiting access to online platforms. It made me consider whether restricting social media accounts is an appropriate safety measure and how such rules may affect communication, participation and access to information. As an ICT student, I found this relevant because technology professionals may need to design and enforce systems that balance user safety with individual rights.
+I chose this artefact because it shows the tension between protecting younger users and limiting access to online platforms. It made me consider whether age restrictions are an appropriate safety measure and how they may affect communication and access to information. As an ICT student, this is relevant because technology professionals may need to implement systems that balance safety, privacy and individual rights.
 
 ---
 
@@ -55,8 +55,8 @@ I chose this artefact because it shows how government regulation can be used to 
 
 **Week 9 Workshop Slide: What are Your Thoughts?**
 
-COIT11223 ICT Ethics and Governance in Society  
-Week 9: Censorship and Government  
+COIT11223 ICT Ethics and Governance in Society
+Week 9: Censorship and Government
 CQUniversity, 2026
 
 [![Artefact 3 - Protecting Society Online vs Freedom of Expression](images/week9/artifact3.png)](images/week9/artifact3.png)
@@ -91,11 +91,11 @@ This photograph provides evidence of my attendance and participation in the Week
 
 ### Summary of the Artefact
 
-The Week 9 workshop showed that censorship decisions involve more than simply removing harmful content. Governments and private technology companies can both influence what users are able to access online, creating ethical questions about safety, privacy, freedom of expression and possible overreach. A central idea was that censorship should be considered in terms of who makes the decision, what harm it seeks to prevent and how much freedom it restricts (CQUniversity 2026).
+The Week 9 workshop showed that censorship involves more than removing harmful content. Governments and technology companies can influence what users can access online, creating ethical questions about safety, privacy, freedom of expression and possible overreach. A key idea was to consider who makes censorship decisions, what harm they seek to prevent and how much freedom they restrict (CQUniversity 2026).
 
 ### Justification for Choosing the Artefact
 
-I chose this workshop artefact because it changed how I think about censorship. Before the workshop, I mainly viewed censorship as blocking harmful content. I now understand that the issue is more complex because restrictions can protect users but may also limit freedom of expression or give too much control to governments or technology companies. This is important to me as an ICT student because technical systems can directly influence what information people are able to access.
+I chose this workshop artefact because it changed how I think about censorship. Before the workshop, I mainly viewed censorship as blocking harmful content. I now understand that restrictions can protect users but may also limit freedom of expression or give significant control to governments or technology companies. This matters to me as an ICT student because technical systems can influence what information people can access.
 
 ---
 
