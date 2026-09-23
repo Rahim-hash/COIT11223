@@ -17,7 +17,7 @@ Published: 5 June 2024
 
 ### Summary of the Artefact
 
-To be developed.
+The ABC News article reports that Australia's eSafety Commissioner abandoned a Federal Court case seeking the removal of graphic church-stabbing footage from X. The dispute followed X's resistance to the removal action and became an important test of Australia's ability to enforce online-safety requirements on a global social media platform. It demonstrates the tension between regulating harmful online material and protecting freedom of expression (Evans & Butler 2024).
 
 ### Justification for Choosing the Artefact
 
