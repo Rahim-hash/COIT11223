@@ -95,7 +95,7 @@ The Week 9 workshop showed that censorship decisions involve more than simply re
 
 ### Justification for Choosing the Artefact
 
-To be developed.
+I chose this workshop artefact because it changed how I think about censorship. Before the workshop, I mainly viewed censorship as blocking harmful content. I now understand that the issue is more complex because restrictions can protect users but may also limit freedom of expression or give too much control to governments or technology companies. This is important to me as an ICT student because technical systems can directly influence what information people are able to access.
 
 ---
 
