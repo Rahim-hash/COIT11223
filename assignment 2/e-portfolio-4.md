@@ -77,7 +77,13 @@ I chose this artefact because the question made me think beyond whether censorsh
 
 ### Workshop Evidence
 
-To be added.
+**COIT11223 Week 9 Workshop - Censorship and Government**
+
+CQUniversity, 2026
+
+[![Artefact 4 - Week 9 Workshop Evidence](images/week9/artifact4.png)](images/week9/artifact4.png)
+
+This photograph provides evidence of my attendance and participation in the Week 9 workshop on Censorship and Government.
 
 ### Key Workshop Idea
 
