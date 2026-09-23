@@ -1,6 +1,6 @@
 # E-Portfolio 4: Censorship and Government
 
-A collection of artefacts that demonstrate what I have learnt about censorship and government during Week 9.
+This e-portfolio presents four artefacts that demonstrate what I learned about censorship and government during Week 9. The workshop examined how governments, technology companies and other organisations can regulate access to online information, as well as the ethical tension between protecting society from harmful content and preserving freedom of expression. It also explored internet blocking, private-platform regulation, classification systems and the responsibilities of ICT professionals.
 
 ## Artefact 1
 
