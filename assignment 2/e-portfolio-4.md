@@ -53,7 +53,15 @@ I chose this artefact because it shows how government regulation can be used to 
 
 ### Artefact
 
-To be added.
+**Week 9 Workshop Slide: What are Your Thoughts?**
+
+COIT11223 ICT Ethics and Governance in Society  
+Week 9: Censorship and Government  
+CQUniversity, 2026
+
+[![Artefact 3 - Protecting Society Online vs Freedom of Expression](images/week9/artifact3.png)](images/week9/artifact3.png)
+
+**Key question:** At what point does protecting society online become restricting freedom, and who should get to decide?
 
 ### Summary of the Artefact
 
