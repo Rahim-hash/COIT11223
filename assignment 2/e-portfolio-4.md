@@ -41,7 +41,7 @@ Restrictions effective: 10 December 2025
 
 ### Summary of the Artefact
 
-To be developed.
+The eSafety Commissioner explains Australia's social media age restrictions, which require age-restricted platforms to take reasonable steps to prevent Australians under 16 from creating or keeping accounts. The restrictions took effect on 10 December 2025 and apply to major platforms including Facebook, Instagram, TikTok, X and YouTube. The policy demonstrates how governments can regulate access to online services in an attempt to reduce risks to younger users (eSafety Commissioner 2026).
 
 ### Justification for Choosing the Artefact
 
