@@ -101,8 +101,12 @@ I chose this workshop artefact because it changed how I think about censorship. 
 
 ## AI Use Statement
 
-To be completed.
+I used generative AI to support planning, idea generation and organisation. I verified relevant information against the Week 9 workshop materials and original sources, and reviewed and revised the final submission in my own words.
 
 ## References
 
-To be completed.
+CQUniversity 2026, *COIT11223 ICT Ethics and Governance in Society, Week 9: Censorship and Government*, workshop slides, CQUniversity.
+
+eSafety Commissioner 2026, *Social media age restrictions*, Australian Government, viewed 23 September 2026, <https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions>.
+
+Evans, J & Butler, J 2024, 'eSafety drops case against Elon Musk's X over church stabbing videos', *ABC News*, 5 June, viewed 23 September 2026, <https://www.abc.net.au/news/2024-06-05/esafety-elon-musk-x-church-stabbing-videos-court-case/103937152>.
