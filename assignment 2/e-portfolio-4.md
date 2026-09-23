@@ -45,7 +45,7 @@ The eSafety Commissioner explains Australia's social media age restrictions, whi
 
 ### Justification for Choosing the Artefact
 
-To be developed.
+I chose this artefact because it shows how government regulation can be used to protect younger users while also limiting access to online platforms. It made me consider whether restricting social media accounts is an appropriate safety measure and how such rules may affect communication, participation and access to information. As an ICT student, I found this relevant because technology professionals may need to design and enforce systems that balance user safety with individual rights.
 
 ---
 
