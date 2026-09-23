@@ -87,11 +87,11 @@ This photograph provides evidence of my attendance and participation in the Week
 
 ### Key Workshop Idea
 
-To be developed.
+**Balancing online safety with freedom of expression and deciding who should regulate online content**
 
 ### Summary of the Artefact
 
-To be developed.
+The Week 9 workshop showed that censorship decisions involve more than simply removing harmful content. Governments and private technology companies can both influence what users are able to access online, creating ethical questions about safety, privacy, freedom of expression and possible overreach. A central idea was that censorship should be considered in terms of who makes the decision, what harm it seeks to prevent and how much freedom it restricts (CQUniversity 2026).
 
 ### Justification for Choosing the Artefact
 
