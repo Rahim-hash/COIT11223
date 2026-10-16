@@ -18,8 +18,7 @@ them with international approaches.
 
 ## Learning Artefacts
 
-Six artefacts will be added throughout the development of
-this portfolio, using sources published from 2024 onwards.
+This portfolio contains six artefacts published from 2024 onwards. They examine government automated decision-making in Australia and overseas, focusing on fairness, privacy, transparency, accountability and professional ethics.
 
 
 ## Artefact 1: Transparency in Australian Government Decision Making
