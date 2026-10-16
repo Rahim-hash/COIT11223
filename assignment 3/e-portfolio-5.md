@@ -156,8 +156,13 @@ I chose this article because it shows how automated systems can create unfair ou
 
 ## Personal Reflection
 
-This section will reflect on my learning and understanding
-of ADM throughout COIT11223.
+Working on this e-portfolio helped me understand that automated decision-making in government is not only a technical issue. It also involves fairness, privacy, transparency and the rights of people affected by decisions.
+
+The Australian OAIC report made me think about how difficult it can be for people to understand government decisions when agencies do not clearly explain their automated systems. The UK transparency guidance showed me a different approach, where government organisations are expected to publish information about certain algorithmic tools.
+
+The article about bias in the UK welfare system was particularly important to me. It showed that even when a human makes the final decision, the technology used earlier in the process can still create unfair outcomes. I learned that checking algorithms for bias and allowing people to question decisions are important safeguards.
+
+The ACS Code of Professional Conduct helped me connect these examples to professional responsibility. In future ICT work, I would want to consider how a system affects the public, not just whether it works correctly. I now understand why transparency, regular testing and human accountability are important when technology is used in government services.
 
 ## AI Use Statement
 
