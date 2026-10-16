@@ -159,6 +159,10 @@ I chose this article because it shows how automated systems can create unfair ou
 This section will reflect on my learning and understanding
 of ADM throughout COIT11223.
 
+## AI Use Statement
+
+I used ChatGPT to help organise the portfolio, draft and improve wording, and prepare GitHub editing scripts. I reviewed the content and selected the source screenshots. The artefacts are linked to their original publications. I remain responsible for checking the accuracy of the information, references and final submission.
+
 ## References
 
 Australian Computer Society 2014, *ACS Code of Professional Conduct*, version 2.1, Australian Computer Society.
