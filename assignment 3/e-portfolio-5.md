@@ -39,7 +39,6 @@ This portfolio contains six artefacts published from 2024 onwards. They examine 
 
 [View the official OAIC report](https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act)
 
-*Screenshot to be added: OAIC report, Key findings section.*
 
 ### Summary of the Artefact
 
