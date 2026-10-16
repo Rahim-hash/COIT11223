@@ -96,6 +96,26 @@ This OAIC article explains new privacy transparency obligations for organisation
 
 I chose this article because privacy is an important issue when governments use personal information to make decisions. People should know when their information is being used by automated systems, especially when the outcome could affect their rights or access to services. I believe clear privacy policies and transparency can help build public trust. This connects with the ACS Code of Professional Conduct, particularly honesty and the primacy of the public interest (Australian Computer Society 2014).
 
+## Artefact 4: UK Government Algorithmic Transparency
+
+### Artefact
+
+*UK Government Algorithmic Transparency*, Government Digital Service and Central Digital and Data Office, 7 February 2025.
+
+[![Artefact 4 source screenshot](images/artefact4-uk-algorithm-transparency.png)](https://www.gov.uk/guidance/publish-a-record-of-algorithmic-tools-using-the-atrs)
+
+*Figure 4: Original source evidence. Click the screenshot to open the source.*
+
+[View the original source](https://www.gov.uk/guidance/publish-a-record-of-algorithmic-tools-using-the-atrs)
+
+### Summary of the Artefact
+
+This UK Government guidance explains the Algorithmic Transparency Recording Standard (ATRS). It requires relevant central government organisations to publish, or show plans to publish, information about algorithmic tools that significantly influence decisions with public impact or directly interact with the public. The guidance covers different forms of AI and complex algorithms (Government Digital Service & Central Digital and Data Office 2025).
+
+### Justification for Choosing the Artefact
+
+I chose this guidance because it gives a practical example of how governments can explain their use of algorithms. It also helps me compare the UK's approach with the transparency concerns identified in Australia. Public reporting supports honesty and accountability, which are important under the ACS Code of Professional Conduct (Australian Computer Society 2014).
+
 ## Personal Reflection
 
 This section will reflect on my learning and understanding
