@@ -136,11 +136,34 @@ The Council of Europe's 2024 Framework Convention on Artificial Intelligence est
 
 I chose this artefact because automated government decisions can affect people's rights. The convention shows why responsible AI needs more than technical accuracy. Governments should consider possible harm, fairness and accountability before introducing these systems. This relates to the ACS values of public interest and quality of life (Australian Computer Society 2014).
 
+## Artefact 6: Algorithmic Bias in UK Welfare Decisions
+
+### Artefact
+
+Booth, R 2024, *Revealed: bias found in AI system used to detect UK benefits fraud*, The Guardian, 6 December.
+
+[![The Guardian article about bias in UK welfare AI](images/artefact6-uk-welfare-ai-bias.png)](https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits)
+
+*Figure 6: The Guardian (2024), bias in an automated welfare fraud detection system. Click the screenshot to open the article.*
+
+[View the original Guardian article](https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits)
+
+### Summary of the Artefact
+
+This Guardian article reports that a UK government AI system used to identify possible Universal Credit fraud showed differences in how it treated people based on age, disability, marital status and nationality. An internal fairness assessment found that the system incorrectly selected some groups more often for investigation. The Department for Work and Pensions said human staff still made the final decisions, but campaigners raised concerns about discrimination and transparency (Booth 2024).
+
+### Justification for Choosing the Artefact
+
+I chose this article because it shows how automated systems can create unfair outcomes even when people review the final decisions. Being wrongly flagged for fraud could cause stress and affect trust in government services. I think developers should test these systems for bias before they are used and regularly check their results. This connects with the ACS Code of Professional Conduct, especially the primacy of the public interest, honesty and competence (Australian Computer Society 2014).
+
 ## Personal Reflection
 
 This section will reflect on my learning and understanding
 of ADM throughout COIT11223.
 
 ## References
+
+
+Booth, R 2024, 'Revealed: bias found in AI system used to detect UK benefits fraud', The Guardian, 6 December, viewed 17 October 2026, https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits
 
 References will follow CQU Harvard referencing style.
