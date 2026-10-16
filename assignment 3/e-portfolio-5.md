@@ -7,14 +7,13 @@
 
 ## Introduction
 
-This e-portfolio examines the use of automated decision making (ADM)
-in government systems and its impact on society.
+This e-portfolio explores the ethical and social issues surrounding automated decision-making (ADM) in government systems. Governments use digital technologies and algorithms to support decisions about public services, welfare and administration. These decisions can directly affect people's everyday lives.
 
-The portfolio focuses on fairness, transparency, privacy,
-accountability and the ethical responsibilities of ICT professionals.
+Automated systems can help government agencies work more efficiently and consistently. However, they can also raise concerns about fairness, privacy, transparency and accountability. People may not always understand how an automated decision was made or how to challenge an incorrect outcome.
 
-It will explore Australian government systems and compare
-them with international approaches.
+This portfolio examines six artefacts published from 2024 onwards, using examples from Australia and other countries. The artefacts discuss transparency, privacy, human rights, public accountability and algorithmic bias. Each artefact includes a summary and a personal justification for its selection.
+
+The portfolio also considers the ACS Code of Professional Conduct and the responsibility of ICT professionals to protect the public interest when developing and using automated systems.
 
 ## Learning Artefacts
 
