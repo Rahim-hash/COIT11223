@@ -166,7 +166,7 @@ The ACS Code of Professional Conduct helped me connect these examples to profess
 
 ## AI Use Statement
 
-I used ChatGPT to help organise the portfolio, draft and improve wording, and prepare GitHub editing scripts. I reviewed the content and selected the source screenshots. The artefacts are linked to their original publications. I remain responsible for checking the accuracy of the information, references and final submission.
+I used AI tools to help draft and improve my writing, find relevant sources and references, and organise my e-portfolio. I reviewed the information and included screenshots with links to the original sources. I checked the content and references before preparing my final submission.
 
 ## References
 
