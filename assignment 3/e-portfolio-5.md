@@ -98,7 +98,7 @@ I chose this article because privacy is an important issue when governments use 
 
 ### Artefact
 
-*UK Government Algorithmic Transparency*, Government Digital Service and Central Digital and Data Office, 7 February 2025.
+*Publish a record of algorithmic tools using the ATRS*, Government Digital Service and Central Digital and Data Office, 7 February 2025.
 
 [![Artefact 4 source screenshot](images/artefact4-uk-algorithm-transparency.png)](https://www.gov.uk/guidance/publish-a-record-of-algorithmic-tools-using-the-atrs)
 
@@ -118,7 +118,7 @@ I chose this guidance because it gives a practical example of how governments ca
 
 ### Artefact
 
-*Human Rights and AI in Government*, Council of Europe, 2024.
+*The Framework Convention on Artificial Intelligence*, Council of Europe, 2024.
 
 [![Artefact 5 source screenshot](images/artefact5-ai-human-rights.png)](https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence)
 
