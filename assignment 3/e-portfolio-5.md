@@ -26,6 +26,15 @@ this portfolio, using sources published from 2024 onwards.
 
 ### Artefact
 
+[![OAIC report screenshot](images/artefact1-oaic.png)](https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act)
+
+*Figure 1: OAIC (2026), automated decision-making and public reporting. Click the screenshot to open the original report.*
+
+[View the original OAIC report](https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act)
+
+
+### Artefact
+
 **Source:** Office of the Australian Information Commissioner (OAIC)  
 **Published:** 21 January 2026
 
