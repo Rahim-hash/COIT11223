@@ -116,6 +116,26 @@ This UK Government guidance explains the Algorithmic Transparency Recording Stan
 
 I chose this guidance because it gives a practical example of how governments can explain their use of algorithms. It also helps me compare the UK's approach with the transparency concerns identified in Australia. Public reporting supports honesty and accountability, which are important under the ACS Code of Professional Conduct (Australian Computer Society 2014).
 
+## Artefact 5: Human Rights and AI in Government
+
+### Artefact
+
+*Human Rights and AI in Government*, Council of Europe, 2024.
+
+[![Artefact 5 source screenshot](images/artefact5-ai-human-rights.png)](https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence)
+
+*Figure 5: Original source evidence. Click the screenshot to open the source.*
+
+[View the original source](https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence)
+
+### Summary of the Artefact
+
+The Council of Europe's 2024 Framework Convention on Artificial Intelligence establishes a framework for protecting human rights, democracy and the rule of law in activities involving AI systems. It includes obligations and principles concerning transparency, accountability and risk management, including when public authorities use AI (Council of Europe 2024).
+
+### Justification for Choosing the Artefact
+
+I chose this artefact because automated government decisions can affect people's rights. The convention shows why responsible AI needs more than technical accuracy. Governments should consider possible harm, fairness and accountability before introducing these systems. This relates to the ACS values of public interest and quality of life (Australian Computer Society 2014).
+
 ## Personal Reflection
 
 This section will reflect on my learning and understanding
