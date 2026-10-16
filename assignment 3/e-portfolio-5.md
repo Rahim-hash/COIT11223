@@ -42,7 +42,7 @@ This portfolio contains six artefacts published from 2024 onwards. They examine 
 
 ### Summary of the Artefact
 
-The OAIC report examines how Australian Government agencies explain their use of automated decision making to the public. The review looked at 23 agencies authorised to use ADM and found that only four clearly disclosed its use in their Information Publication Scheme information. The report recommends that agencies explain which decisions are automated and publish relevant policies so people can better understand how government decisions are made (OAIC 2026).
+The OAIC report examines how Australian Government agencies explain their use of automated decision making to the public. The review looked at 23 agencies authorised to use ADM and found that only four clearly disclosed its use in their Information Publication Scheme information. The report recommends that agencies explain which decisions are automated and publish relevant policies so people can better understand how government decisions are made (OAIC 2026a).
 
 ### Justification for Choosing the Artefact
 
@@ -88,7 +88,7 @@ I selected this article because government decisions can directly affect people'
 
 ### Summary of the Artefact
 
-This OAIC article explains new privacy transparency obligations for organisations and government agencies using automated decision-making systems. From 10 December 2026, entities covered by the Australian Privacy Principles must include information in their privacy policies about certain computer-assisted decisions that significantly affect individuals. This includes describing the types of personal information used and decisions made through automated processes (OAIC 2026).
+This OAIC article explains new privacy transparency obligations for organisations and government agencies using automated decision-making systems. From 10 December 2026, entities covered by the Australian Privacy Principles must include information in their privacy policies about certain computer-assisted decisions that significantly affect individuals. This includes describing the types of personal information used and decisions made through automated processes (OAIC 2026b).
 
 ### Justification for Choosing the Artefact
 
@@ -161,7 +161,16 @@ of ADM throughout COIT11223.
 
 ## References
 
+Australian Computer Society 2014, *ACS Code of Professional Conduct*, version 2.1, Australian Computer Society.
 
-Booth, R 2024, 'Revealed: bias found in AI system used to detect UK benefits fraud', The Guardian, 6 December, viewed 17 October 2026, https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits
+Booth, R 2024, 'Revealed: bias found in AI system used to detect UK benefits fraud', *The Guardian*, 6 December, viewed 17 October 2026, https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits
 
-References will follow CQU Harvard referencing style.
+Council of Europe 2024, *The Framework Convention on Artificial Intelligence*, Council of Europe, viewed 17 October 2026, https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence
+
+Government Digital Service & Central Digital and Data Office 2025, *Publish a record of algorithmic tools using the ATRS*, GOV.UK, 7 February, viewed 17 October 2026, https://www.gov.uk/guidance/publish-a-record-of-algorithmic-tools-using-the-atrs
+
+Office of the Australian Information Commissioner (OAIC) 2026a, *Automated decision-making and public reporting under the Freedom of Information Act*, Australian Government, 21 January, viewed 17 October 2026, https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act
+
+Office of the Australian Information Commissioner (OAIC) 2026b, 'New resources on transparency for use of AI and automated decision-making', Australian Government, 30 September, viewed 17 October 2026, https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making
+
+Tregenza, H 2026, 'Federal government to tighten rules around use of AI in departmental decision-making', *ABC News*, 19 July, viewed 17 October 2026, https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212
