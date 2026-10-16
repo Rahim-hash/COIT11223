@@ -56,6 +56,26 @@ Australian Computer Society 2014, *ACS Code of Professional Conduct*, version 2.
 
 Office of the Australian Information Commissioner (OAIC) 2026, *Automated decision-making and public reporting under the Freedom of Information Act*, Australian Government, 21 January, viewed 17 October 2026, https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act
 
+## Artefact 2: Government AI Decisions and Public Safety
+
+### Artefact
+
+*Federal government to tighten rules around use of AI in departmental decision-making*, ABC News, 19 July 2026.
+
+[![ABC News report about government AI decisions](images/artefact2-government-ai-rules.png)](https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212)
+
+*Figure 2: ABC News (2026), government oversight of AI. Click the screenshot to open the article.*
+
+[View the original ABC News article](https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212)
+
+### Summary of the Artefact
+
+This ABC News article discusses plans to strengthen oversight of artificial intelligence used by Australian Government agencies. The government proposed a framework intended to ensure AI-supported decisions are fair and accurate, alongside stronger privacy protections. The article also describes concerns about automated decisions affecting social services and the need for human involvement in important government processes (Tregenza 2026).
+
+### Justification for Choosing the Artefact
+
+I selected this article because government decisions can directly affect people's income and access to services. It helped me understand why AI should support public servants rather than remove accountability. In my view, people should be able to understand and challenge decisions affecting them. This connects with the ACS Code of Professional Conduct, especially the primacy of the public interest (Australian Computer Society 2014, p. 6).
+
 ## Personal Reflection
 
 This section will reflect on my learning and understanding
