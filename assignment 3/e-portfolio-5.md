@@ -76,6 +76,26 @@ This ABC News article discusses plans to strengthen oversight of artificial inte
 
 I selected this article because government decisions can directly affect people's income and access to services. It helped me understand why AI should support public servants rather than remove accountability. In my view, people should be able to understand and challenge decisions affecting them. This connects with the ACS Code of Professional Conduct, especially the primacy of the public interest (Australian Computer Society 2014, p. 6).
 
+## Artefact 3: Privacy and Automated Decision Making
+
+### Artefact
+
+*New resources on transparency for use of AI and automated decision-making*, Office of the Australian Information Commissioner, 30 September 2026.
+
+[![OAIC privacy and automated decision-making article](images/artefact3-privacy-transparency.png)](https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making)
+
+*Figure 3: OAIC (2026), new transparency requirements for automated decisions. Click the screenshot to open the source.*
+
+[View the original OAIC article](https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making)
+
+### Summary of the Artefact
+
+This OAIC article explains new privacy transparency obligations for organisations and government agencies using automated decision-making systems. From 10 December 2026, entities covered by the Australian Privacy Principles must include information in their privacy policies about certain computer-assisted decisions that significantly affect individuals. This includes describing the types of personal information used and decisions made through automated processes (OAIC 2026).
+
+### Justification for Choosing the Artefact
+
+I chose this article because privacy is an important issue when governments use personal information to make decisions. People should know when their information is being used by automated systems, especially when the outcome could affect their rights or access to services. I believe clear privacy policies and transparency can help build public trust. This connects with the ACS Code of Professional Conduct, particularly honesty and the primacy of the public interest (Australian Computer Society 2014).
+
 ## Personal Reflection
 
 This section will reflect on my learning and understanding
